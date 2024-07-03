@@ -9,5 +9,5 @@ Pod::Spec.new do |spec|
     spec.platform = :ios, "13.0"
     spec.swift_version = '5.0'
     spec.source = { :git => "https://github.com/ldev1211/demo-lib-ios.git", :tag => '1.0.0' }
-    spec.source_files = "DemoLib/DemoLib/**/**"
+    spec.source_files = 'DemoLib/DemoLib/**'
 end
