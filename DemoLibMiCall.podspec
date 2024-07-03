@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
-    spec.name = "DemoLib"
+    spec.name = "DemoLibMiCall"
     spec.version = "1.0.1"
-    spec.summary = "DemoLib SDK"
+    spec.summary = "DemoLibMiCall SDK"
     spec.description = "DemoLib SDK for voip embedded"
     spec.homepage = "https://github.com/ldev1211/demo-lib-ios"
     spec.license = { :type => "MIT", :file => "LICENSE" }

@@ -11,7 +11,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C1E3AE312C34FC24002BD0C5 /* DemoLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DemoLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1E3AE312C34FC24002BD0C5 /* DemoLibMiCall.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DemoLibMiCall.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1E3AE342C34FC24002BD0C5 /* DemoLib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoLib.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,7 +37,7 @@
 		C1E3AE322C34FC24002BD0C5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C1E3AE312C34FC24002BD0C5 /* DemoLib.framework */,
+				C1E3AE312C34FC24002BD0C5 /* DemoLibMiCall.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -64,9 +64,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		C1E3AE302C34FC24002BD0C5 /* DemoLib */ = {
+		C1E3AE302C34FC24002BD0C5 /* DemoLibMiCall */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C1E3AE382C34FC24002BD0C5 /* Build configuration list for PBXNativeTarget "DemoLib" */;
+			buildConfigurationList = C1E3AE382C34FC24002BD0C5 /* Build configuration list for PBXNativeTarget "DemoLibMiCall" */;
 			buildPhases = (
 				C1E3AE2C2C34FC24002BD0C5 /* Headers */,
 				C1E3AE2D2C34FC24002BD0C5 /* Sources */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = DemoLib;
+			name = DemoLibMiCall;
 			productName = DemoLib;
-			productReference = C1E3AE312C34FC24002BD0C5 /* DemoLib.framework */;
+			productReference = C1E3AE312C34FC24002BD0C5 /* DemoLibMiCall.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C1E3AE2B2C34FC24002BD0C5 /* Build configuration list for PBXProject "DemoLib" */;
+			buildConfigurationList = C1E3AE2B2C34FC24002BD0C5 /* Build configuration list for PBXProject "DemoLibMiCall" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C1E3AE302C34FC24002BD0C5 /* DemoLib */,
+				C1E3AE302C34FC24002BD0C5 /* DemoLibMiCall */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C1E3AE2B2C34FC24002BD0C5 /* Build configuration list for PBXProject "DemoLib" */ = {
+		C1E3AE2B2C34FC24002BD0C5 /* Build configuration list for PBXProject "DemoLibMiCall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C1E3AE362C34FC24002BD0C5 /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C1E3AE382C34FC24002BD0C5 /* Build configuration list for PBXNativeTarget "DemoLib" */ = {
+		C1E3AE382C34FC24002BD0C5 /* Build configuration list for PBXNativeTarget "DemoLibMiCall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C1E3AE392C34FC24002BD0C5 /* Debug */,
