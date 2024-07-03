@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name = "DemoLib"
-    spec.version = "1.0.0"
+    spec.version = "1.0.1"
     spec.summary = "DemoLib SDK"
     spec.description = "DemoLib SDK for voip embedded"
     spec.homepage = "https://github.com/ldev1211/demo-lib-ios"
@@ -8,6 +8,6 @@ Pod::Spec.new do |spec|
     spec.author = { "LDev" => "luongdien1211@gmail.com" }
     spec.platform = :ios, "13.0"
     spec.swift_version = '5.0'
-    spec.source = { :git => "https://github.com/ldev1211/demo-lib-ios.git", :tag => '1.0.0' }
+    spec.source = { :git => "https://github.com/ldev1211/demo-lib-ios.git", :tag => '1.0.1' }
     spec.source_files = 'DemoLib/DemoLib/**'
 end
